@@ -1,8 +1,8 @@
 ##LeetCode Solution##
 ***
-3    Hash, DP. Res = Max{P[i]}, and each P[i] = i-max{last, s[i]}, s[i]=i
-5   Manacher’s algorithm
-7   Be careful of overflow
+* 3    Hash, DP. Res = Max{P[i]}, and each P[i] = i-max{last, s[i]}, s[i]=i
+* 5    Manacher’s algorithm
+* 7    Be careful of overflow
 
 ***
 |  No             | Title                                     |Solution                               |
